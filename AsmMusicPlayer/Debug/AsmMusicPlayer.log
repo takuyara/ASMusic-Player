@@ -1,0 +1,3 @@
+﻿  Assembling MusicPlayer.asm...
+MusicPlayer.asm(850): warning A6004: procedure argument or local not referenced : hWin
+  AsmMusicPlayer.vcxproj -> D:\hope\ASMHWD\ASMHWD\Debug\AsmMusicPlayer.exe
